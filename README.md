@@ -11,7 +11,6 @@
 - [Mini curso de HTML](https://app.rocketseat.com.br/); 
 - [Mini curso de HTML com Guanabara](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n); 
 
-## HTML é uma abreviação de **Hyper Text Markup Language** (linguagem de marcação em hipertexto). Ou seja, não se trata de uma linguagem de programação, pois não tem lógica (algoritmos, processos etc). Ele cria a **estrutura** de uma página ou aplicação web, determinando a separação de layout e seu conteúdo. Documentos .html possuem tags de estruturação básica: ```html <!DOCTYPE html> <html> <head></head> <body></body> </html> ``` Internamente, as tags html possuem uma anatomia básica também: ```html <nome-da-tag atributo="valor do atributo"> conteúdo </nome-da-tag> ``` Comentários em HTML: ```html <!-- Isso é um comentário. Comentários em qualquer linguagem são pedaços de código que são ignorados na renderização (na leitura do computador), mas são úteis para entedimento humano -->
 
 ## Instruções para envio do exercício:
 ### 1 - Fazer o Fork desse repositório;
